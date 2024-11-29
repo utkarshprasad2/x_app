@@ -15,8 +15,8 @@ Keyboard Controls: Players use the arrow keys to control the snake's movement.
 # 🛠️ Skills Learned
 
 1. HTML5 & Semantic Markup 📄
-- Structuring Content: Learned to use HTML elements like <div>, <canvas>, <button>, and <table> to structure the webpage logically.
-- Canvas Element: Utilized the <canvas> element for rendering the game graphics.
+- Structuring Content: Learned to use HTML elements like div, canvas, button, and table to structure the webpage logically.
+- Canvas Element: Utilized the canvas element for rendering the game graphics.
 - Semantic Elements: Applied semantic HTML to improve accessibility and readability.
 2. CSS3 Styling 🎨
 - Styling Components: Styled buttons, score displays, and the game canvas for a cohesive look.
