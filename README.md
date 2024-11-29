@@ -1,7 +1,9 @@
-🐍 Snake Game Project
+# 🐍 Snake Game Project
+
 Welcome to the Snake Game Project! This project is a classic implementation of the Snake game using HTML, CSS, JavaScript, and Python (Flask). Throughout this project, several web development skills were learned and applied. This README provides an overview of the project and highlights the key skills developed during its creation.
 
-🎮 Project Overview
+# 🎮 Project Overview
+
 The Snake Game is a web-based application where players control a snake to eat food, grow in length, and avoid collisions with walls or itself. The game includes the following features:
 
 Start Game Button: Prevents the game from starting automatically and allows the player to start when ready.
@@ -10,7 +12,8 @@ Previous Scores Table: Displays a list of previous scores, encouraging players t
 Responsive Design: The game canvas and elements are positioned for optimal viewing.
 Keyboard Controls: Players use the arrow keys to control the snake's movement.
 
-🛠️ Skills Learned
+# 🛠️ Skills Learned
+
 1. HTML5 & Semantic Markup 📄
 - Structuring Content: Learned to use HTML elements like <div>, <canvas>, <button>, and <table> to structure the webpage logically.
 - Canvas Element: Utilized the <canvas> element for rendering the game graphics.
@@ -40,4 +43,4 @@ Keyboard Controls: Players use the arrow keys to control the snake's movement.
 - Visual Feedback: Updated the score in real-time and provided visual cues for game over and restarting.
 - Accessibility: Considered keyboard accessibility for game controls.
 
-Enjoy playing the Snake Game, and happy coding! 🚀
+# Enjoy playing the Snake Game, and happy coding! 🚀
