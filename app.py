@@ -2,6 +2,8 @@ from flask import Flask, send_from_directory
 
 app = Flask(__name__)
 
+# Using Flask SFD function
+
 @app.route('/')
 def serve_snake():
     return send_from_directory('.', 'snake.html')
