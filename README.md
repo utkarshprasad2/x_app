@@ -23,7 +23,7 @@ Keyboard Controls: Players use the arrow keys to control the snake's movement.
 - Positioning Elements: Used CSS positioning to align elements like the canvas and score table.
 - Responsive Design: Ensured that the game displays correctly on different screen sizes.
 3. JavaScript Programming 💻
-- - Game Logic Development: Implemented the game mechanics, including snake movement, food generation, and collision detection.
+- Game Logic Development: Implemented the game mechanics, including snake movement, food generation, and collision detection.
 - Event Handling: Managed keyboard inputs for controlling the snake and button clicks for starting or restarting the game.
 - Canvas Manipulation: Drew the snake, food, and other game elements on the canvas.
 - DOM Manipulation: Updated the score display and dynamically created HTML elements like the "Try Again" button.
@@ -35,7 +35,7 @@ Keyboard Controls: Players use the arrow keys to control the snake's movement.
 - Routing: Defined routes to handle HTTP requests and serve static files.
 - Integration with Frontend: Connected the frontend game with the backend server seamlessly.
 5. Problem-Solving & Debugging 🐞
-- - Error Handling: Identified and fixed bugs related to game mechanics and user interactions.
+- Error Handling: Identified and fixed bugs related to game mechanics and user interactions.
 - Logical Thinking: Applied logical reasoning to implement game rules and prevent invalid actions (e.g., snake reversing direction).
 - Testing: Tested the game thoroughly to ensure all features work as intended.
 6. User Experience (UX) Design 🎯
